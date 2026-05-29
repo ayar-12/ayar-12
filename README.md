@@ -1,19 +1,47 @@
-# Hi, I'm Ayar 🖥️🎧  
-💻 Full-Stack Developer | MERN & React Native  
-🚀 Passionate about building modern web & mobile apps  
-🧠 Exploring AI tools to create smarter solutions  
-📸 Follow me on [Instagram]([https://instagram.com/your_instagram_username](https://www.instagram.com/ayar.122))
+# Hi, I'm Waad 👋
+
+**Software Engineer** | 7+ years building production mobile and web apps
+
+I'm a self-taught founding engineer based in Muscat, Oman. I've shipped 4 products end-to-end, owning everything from architecture to deployment.
+
+## 🚀 What I'm Building
+
+- **ALTIS** — Aviation training app for EASA ATPL exam preparation  
+  *React Native, Expo, Supabase, AI/RAG architecture*
+
+- **PALM Beauty** — Full-stack e-commerce platform with Thawani payment integration  
+  *React, Node.js, MongoDB, multi-currency support*
+
+- **KROX** — AI-powered fitness app with camera-based rep counting  
+  *React Native, Expo, Supabase, Clerk auth*
+
+- **Task Monster** — Productivity app with habit tracking and calendar  
+  *React Native, Supabase*
+
+## 🛠️ Tech Stack
+
+**Mobile:** React Native, Expo  
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, MUI, Framer Motion  
+**Backend:** Node.js, Express, FastAPI, Python  
+**Databases:** Supabase, PostgreSQL, MongoDB, pgvector  
+**AI/ML:** OpenAI, Whisper, ElevenLabs, RAG architecture  
+**DevOps & Tools:** Render, Cloudinary, JWT, Clerk, Git
+
+## 🌍 Languages
+
+- 🇸🇦 Arabic (Native)
+- 🇬🇧 English (Fluent)
+
+## 📫 Let's Connect
+
+- 💼 **LinkedIn:** [linkedin.com/in/waad-alsiyabi](https://www.linkedin.com/in/waad-alsiyabi)
+- 🌐 **PALM Beauty:** [palmbeauty.net](https://www.palmbeauty.net)
+- 📧 **Email:** your-email@example.com
 
 ---
 
-## 💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) 
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=
+### 🟢 Currently open to full-time Software Engineer roles
+
+Looking for **Mobile, Full-stack, or Frontend Engineer** positions.  
+Open to: **Remote • Oman • Gulf-based companies**  
+Available: **Immediately**
