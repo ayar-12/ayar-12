@@ -36,7 +36,7 @@ I'm a self-taught founding engineer based in Muscat, Oman. I've shipped 4 produc
 
 - 💼 **LinkedIn:** [linkedin.com/in/waad-alsiyabi](https://www.linkedin.com/in/waad-alsiyabi)
 - 🌐 **PALM Beauty:** [palmbeauty.net](https://www.palmbeauty.net)
-- 📧 **Email:** your-email@example.com
+- 📧 **Email:** waadissa81@gmail.com
 
 ---
 
